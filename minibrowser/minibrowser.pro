@@ -2,7 +2,8 @@ TEMPLATE = app
 TARGET = minibrowser
 QT += qml quick webview
 
-SOURCES += main.cpp
+SOURCES += main.cpp \
+    testgitclass.cpp
 
 RESOURCES += qml.qrc
 
@@ -13,3 +14,6 @@ ios:QMAKE_INFO_PLIST = ios/Info.plist
 
 target.path = $$[QT_INSTALL_EXAMPLES]/webview/minibrowser
 INSTALLS += target
+
+HEADERS += \
+    testgitclass.h

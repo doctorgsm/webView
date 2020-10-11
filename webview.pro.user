@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-10-09T07:51:29. -->
+<!-- Written by QtCreator 4.11.0, 2020-10-12T00:49:46. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -340,8 +340,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">0</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">minibrowser</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.AndroidRunConfiguration:C:/webview/minibrowser/minibrowser.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/webview/minibrowser/minibrowser.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.AndroidRunConfiguration:D:/webView/webView/minibrowser/minibrowser.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/webView/webView/minibrowser/minibrowser.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
